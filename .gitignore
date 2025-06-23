@@ -73,3 +73,24 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# React Native packager files
+.expo/
+.expo-shared/
+
+# Hermes
+*.hbc
+
+# Android NDK artifacts (if using C++)
+/jniLibs/
+
+# Misc build cache
+/build/
+.cache/
+
+.env
+.vscode/
+*.apk
+*.aab
+
+gradle.properties
