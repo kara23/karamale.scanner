@@ -1,4 +1,4 @@
-package com.karamale
+package com.karamale.scanner
 
 import android.app.Application
 import com.facebook.react.PackageList

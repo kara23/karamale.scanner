@@ -1,4 +1,4 @@
-package com.karamale
+package com.karamale.scanner
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
